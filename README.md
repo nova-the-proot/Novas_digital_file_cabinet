@@ -1,2 +1,2 @@
 # Nova's digital file cabinet
-Assets for my website that can't be hosted by Neocities.
+Just some assets, i might add a logo, but who knows/cares
